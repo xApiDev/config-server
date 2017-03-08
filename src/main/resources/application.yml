@@ -7,6 +7,6 @@ spring:
         encrypt.enabled: false
         git:
           uri: https://github.com/xApiDev/config-server
-          searchPaths: iban-service
+          searchPaths: ibanservice
           username: xApiDev
           password: sergiovass1t
